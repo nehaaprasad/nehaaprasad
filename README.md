@@ -21,7 +21,6 @@ I’m Neha Prasad, a **Software Engineer** focused on **Frontend Development** w
 
 ---
 
-[**View all my Open Source Contributions**](./contributions.md)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b378d7f2-4e3a-4410-a678-0a2e09ab0a9e" alt="Open source contribution" width="280" />
