@@ -32,14 +32,47 @@ I actively contribute to open source and love shipping real improvements through
   <img src="https://github.com/user-attachments/assets/87e04cb8-893b-437e-b131-5302f23300b8" alt="Open source contribution" width="280" />
 </div>
 
-### Featured Merged PRs
+## 🍀 Open Source Contributions
 
-| Project | What I Contributed | Link |
-|--------|---------------------|------|
-| Project Name | Short impact summary | [PR](#) |
-| Project Name | Short impact summary | [PR](#) |
-| Project Name | Short impact summary | [PR](#) |
+A curated list of my most impactful merged pull requests across AI tooling, frontend systems, and developer platforms.
 
+### 🌟 Featured Pull Requests
+
+- **LlamaIndex** — Multi-turn image generation support (#2106)
+- **Mastra** — Anthropic tool calling support (#12400)
+- **Mastra** — PgVector + Postgres integration (#8103)
+- **AnythingLLM** — Exa search provider integration (#4258)
+- **AnythingLLM** — Base64 document attachment support (#4672)
+- **agno** — AWS Bedrock API key support for Claude
+- **LiteLLM** — Streaming, provider, and prompt-handling improvements
+- **Haystack** — Async embedding retriever support (#3016)
+- **PostHog** — Group property filtering for survey responses (#34946)
+- **Cal.com** — Dynamic adapter import fix (#23784)
+- **Sentry** — `isolateTrace` option for performance monitoring (#18079)
+- **Prefect** — API performance optimization (#19548)
+- **Next.js** — `RedirectType` handling fix (#88653)
+- **LanceDB** — Nullable vector field handling (#2657, #2658)
+- **tldraw** — Custom snap points for canvas interactions (#6987)
+
+### 🔥 Contribution Highlights
+
+- Built features for AI, frontend, and developer tooling projects.
+- Fixed production bugs in widely used open-source repositories.
+- Improved reliability, performance, and usability across multiple codebases.
+- Contributed to both feature work and system-level refinements.
+- Worked across TypeScript, Python, React, and backend-heavy stacks.
+
+### 📂 All Merged Pull Requests
+
+View all merged PRs here: `<YOUR_ALL_PRS_LINK>`
+
+### 🍀 Contribution Areas
+
+- AI tooling and agent workflows
+- Frontend engineering and UI systems
+- Backend stability and performance
+- SDK and API improvements
+- Accessibility and developer experience
 ---
 
 ## Skills & Tools
