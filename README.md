@@ -42,7 +42,13 @@ I actively contribute to open source and love shipping real improvements through
 
 ---
 
-### Skills & Tools | Frontend | Backend / DevOps | Databases & Cloud | Tools & Libraries | | ---------------------------- | -------------------- | ----------------------- | -------------------------- | | Next.js · React · TypeScript | Node.js · Express.js | MongoDB · PostgreSQL | Git · Docker · CI/CD | | HTML · CSS · Tailwind CSS | Python | Firebase · AWS · Vercel | Redux · shadcn UI · Prisma |
+## Skills & Tools
+
+| Frontend | Backend / DevOps | Databases & Cloud | Tools & Libraries |
+| --- | --- | --- | --- |
+| Next.js · React · TypeScript · Tailwind CSS · HTML · CSS | Node.js · Express.js · Python · CI/CD | MongoDB · PostgreSQL · Firebase · AWS · Vercel | Git · Docker · Redux · shadcn/ui · Prisma |
+
 ---
+
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
