@@ -61,14 +61,6 @@ A curated list of my most impactful merged pull requests across AI tooling, fron
 
 View all merged PRs here: `<YOUR_ALL_PRS_LINK>`
 
-### 🍀 Contribution Areas
-
-- AI tooling and agent workflows
-- Frontend engineering and UI systems
-- Backend stability and performance
-- SDK and API improvements
-- Accessibility and developer experience
----
 
 ## Skills & Tools
 
