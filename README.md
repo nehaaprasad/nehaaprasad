@@ -12,7 +12,7 @@
 
 ## About Me
 
-I’m Neha Prasad, a *Software Engineer* focused on *Frontend Development* with *Next.js* and *TypeScript*.
+I’m Neha Prasad, a <i>Software Engineer</i> focused on <i>Frontend Development</i> with <i>Next.js</i> and <i>TypeScript</i>.
 
 - I build clean, responsive, and scalable web experiences.
 - I’m constantly learning about **AI/ML**, **Cloud Infrastructure**, and **CI/CD**.
