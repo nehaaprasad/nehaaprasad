@@ -21,10 +21,6 @@ I’m Neha Prasad, a **Software Engineer** focused on **Frontend Development** w
 
 ---
 
-## Open Source Contributions
-
-I actively contribute to open source and love shipping real improvements through merged PRs.
-
 [**View all my Open Source Contributions**](./contributions.md)
 
 <div align="center">
