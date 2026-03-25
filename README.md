@@ -55,7 +55,7 @@ A curated list of my most impactful merged pull requests across AI tooling, fron
 
 ### 📂 All Merged Pull Requests
 
-View the full list here: [All Merged PRs](https://github.com/yourusername?tab=pull_requests)
+View the full list here: [All Merged PRs](https://github.com/nehaaprasad/nehaaprasad/blob/main/ALL_PRS.md)
 
 ### 🍀 Contribution Areas
 
