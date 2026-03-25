@@ -52,18 +52,12 @@ A curated list of my most impactful merged pull requests across AI tooling, fron
 - [**OpenHands** — Fix selected repo disappearing in open repository dropdown](https://github.com/OpenHands/OpenHands/pull/12702)
 - [**shadcn/ui** — Add `@ui-layouts` registry to directory](https://github.com/shadcn-ui/ui/pull/8878)
 
-### 🔥 Why these stand out
-
-- Strong mix of **AI, frontend, backend, and developer tooling**
-- Contributions to **well-known open source projects**
-- Balance of **feature work, bug fixes, and system improvements**
-- Real-world impact across **production codebases**
 
 ### 📂 All Merged Pull Requests
 
 View the full list here: `<YOUR_ALL_PRS_LINK>`
 
-### 🧠 Contribution Areas
+### 🍀 Contribution Areas
 
 - AI tooling and agent workflows
 - Frontend engineering and UI systems
