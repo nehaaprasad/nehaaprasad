@@ -33,33 +33,43 @@ A curated list of my most impactful merged pull requests across AI tooling, fron
 
 ### 🌟 Featured Pull Requests
 
-- **LlamaIndex** — Multi-turn image generation support (#2106)
-- **Mastra** — Anthropic tool calling support (#12400)
-- **Mastra** — PgVector + Postgres integration (#8103)
-- **AnythingLLM** — Exa search provider integration (#4258)
-- **AnythingLLM** — Base64 document attachment support (#4672)
-- **agno** — AWS Bedrock API key support for Claude
-- **LiteLLM** — Streaming, provider, and prompt-handling improvements
-- **Haystack** — Async embedding retriever support (#3016)
-- **PostHog** — Group property filtering for survey responses (#34946)
-- **Cal.com** — Dynamic adapter import fix (#23784)
-- **Sentry** — `isolateTrace` option for performance monitoring (#18079)
-- **Prefect** — API performance optimization (#19548)
-- **Next.js** — `RedirectType` handling fix (#88653)
-- **LanceDB** — Nullable vector field handling (#2657, #2658)
-- **tldraw** — Custom snap points for canvas interactions (#6987)
+- [**LlamaIndex** — Multi-turn image generation support](https://github.com/run-llama/LlamaIndexTS/pull/2106)
+- [**Mastra** — Anthropic tool calling support](https://github.com/mastra-ai/mastra/pull/12400)
+- [**Mastra** — PgVector + Postgres integration](https://github.com/mastra-ai/mastra/pull/8103)
+- [**AnythingLLM** — Exa search provider integration](https://github.com/Mintplex-Labs/anything-llm/pull/4258)
+- [**AnythingLLM** — Base64 document attachment support](https://github.com/Mintplex-Labs/anything-llm/pull/4672)
+- [**agno** — AWS Bedrock API key support for Claude](https://github.com/agno-agi/agno/pull/5497)
+- [**LiteLLM** — Streaming, provider, and prompt-handling improvements](YOUR_LITELLM_PR_LINK)
+- [**Haystack** — Async embedding retriever support](https://github.com/deepset-ai/haystack-core-integrations/pull/3016)
+- [**PostHog** — Group property filtering for survey responses](https://github.com/PostHog/posthog/pull/34946)
+- [**Cal.com** — Dynamic adapter import fix](https://github.com/calcom/cal.com/pull/23784)
+- [**Sentry** — `isolateTrace` option for performance monitoring](https://github.com/getsentry/sentry-javascript/pull/18079)
+- [**Prefect** — API performance optimization](https://github.com/PrefectHQ/prefect/pull/19548)
+- [**Next.js** — `RedirectType` handling fix](https://github.com/vercel/next.js/pull/88653)
+- [**LanceDB** — Nullable vector field handling](https://github.com/lancedb/lancedb/pull/2657)
+- [**LanceDB** — Nullable vector field handling](https://github.com/lancedb/lancedb/pull/2658)
+- [**tldraw** — Custom snap points for canvas interactions](https://github.com/tldraw/tldraw/pull/6987)
+- [**OpenHands** — Fix selected repo disappearing in open repository dropdown](https://github.com/OpenHands/OpenHands/pull/12702)
+- [**shadcn/ui** — Add `@ui-layouts` registry to directory](https://github.com/shadcn-ui/ui/pull/8878)
 
-### 🔥 Contribution Highlights
+### 🔥 Why these stand out
 
-- Built features for AI, frontend, and developer tooling projects.
-- Fixed production bugs in widely used open-source repositories.
-- Improved reliability, performance, and usability across multiple codebases.
-- Contributed to both feature work and system-level refinements.
-- Worked across TypeScript, Python, React, and backend-heavy stacks.
+- Strong mix of **AI, frontend, backend, and developer tooling**
+- Contributions to **well-known open source projects**
+- Balance of **feature work, bug fixes, and system improvements**
+- Real-world impact across **production codebases**
 
 ### 📂 All Merged Pull Requests
 
-View all merged PRs here: `<YOUR_ALL_PRS_LINK>`
+View the full list here: `<YOUR_ALL_PRS_LINK>`
+
+### 🧠 Contribution Areas
+
+- AI tooling and agent workflows
+- Frontend engineering and UI systems
+- Backend reliability and performance
+- API and SDK improvements
+- Developer experience and accessibility
 
 
 ## Skills & Tools
