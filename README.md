@@ -31,7 +31,7 @@ I’m Neha Prasad, a <i>Software Engineer</i> focused on <i>Frontend Development
 
 A curated list of my most impactful merged pull requests across AI tooling, frontend systems, and developer platforms.
 
-### 🌟 Featured Pull Requests
+### ⭐ Featured Pull Requests
 
 - [**LlamaIndex** — Multi-turn image generation support](https://github.com/run-llama/LlamaIndexTS/pull/2106)
 - [**Mastra** — Anthropic tool calling support](https://github.com/mastra-ai/mastra/pull/12400)
