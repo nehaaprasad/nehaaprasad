@@ -2,10 +2,6 @@
 
 A structured list of my merged pull requests, grouped by project and impact.
 
----
-
-### 🌟 Featured Pull Requests
-
 - [**OpenHands** — Fix double scrollbar when profile avatar popover is shown](https://github.com/OpenHands/OpenHands/pull/13115)
 - [**emdash** — Allow custom command args and env vars per agent](https://github.com/generalaction/emdash/pull/975)
 - [**LlamaIndexTS** — Multi-turn image generation support](https://github.com/run-llama/LlamaIndexTS/pull/2106)
@@ -24,7 +20,7 @@ A structured list of my merged pull requests, grouped by project and impact.
 
 ---
 
-### 🤖 AI / LLM / Agent Platforms
+### 🧙‍♂️📍 AI / LLM / Agent Platforms
 
 - [**LlamaIndexTS** — Multi-turn image generation support](https://github.com/run-llama/LlamaIndexTS/pull/2106)
 - [**LlamaIndexTS** — Anthropic temperature parameter fix](https://github.com/run-llama/LlamaIndexTS/pull/2190)
@@ -107,7 +103,7 @@ A structured list of my merged pull requests, grouped by project and impact.
 
 ---
 
-### 📊 Analytics / Monitoring / Search / Platform
+### 📜 Analytics / Monitoring / Search / Platform
 
 - [**PostHog** — Group property filtering for survey responses](https://github.com/PostHog/posthog/pull/34946)
 - [**Sentry** — `isolateTrace` option for performance monitoring](https://github.com/getsentry/sentry-javascript/pull/18079)
@@ -138,7 +134,7 @@ A structured list of my merged pull requests, grouped by project and impact.
 
 ---
 
-### 🧪 Other Merged Pull Requests
+### 👀 Other Merged Pull Requests
 
 - [**DocsGPT** — Expand and clarify AUTH_TYPE configuration and authentication methods](https://github.com/arc53/DocsGPT/pull/1900)
 - [**LlamaFarm** — Include file names in dataset API responses](https://github.com/llama-farm/llamafarm/pull/153)
@@ -152,19 +148,3 @@ A structured list of my merged pull requests, grouped by project and impact.
 - [**JuliaEarth/GeoIO.jl** — Forward numtype for STL](https://github.com/JuliaEarth/GeoIO.jl/pull/204)
 - [**browser-use** — Replace hyphens with underscores in EventBus name generation](https://github.com/browser-use/browser-use/pull/3110)
 - [**pi-mono** — Duplicate tool messages during execution](https://github.com/badlogic/pi-mono/pull/1250)
-
----
-
-### 📂 All Merged Pull Requests
-
-View the full list here: [All Merged PRs](./ALL_PRS.md)
-
----
-
-### 🧠 Contribution Areas
-
-- AI tooling and agent workflows
-- Frontend engineering and UI systems
-- Backend reliability and performance
-- API and SDK improvements
-- Developer experience and accessibility
