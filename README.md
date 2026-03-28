@@ -39,7 +39,7 @@ A curated list of my most impactful merged pull requests across AI tooling, fron
 - [**AnythingLLM** — Exa search provider integration](https://github.com/Mintplex-Labs/anything-llm/pull/4258)
 - [**AnythingLLM** — Base64 document attachment support](https://github.com/Mintplex-Labs/anything-llm/pull/4672)
 - [**agno** — AWS Bedrock API key support for Claude](https://github.com/agno-agi/agno/pull/5497)
-- [**LiteLLM** — Streaming, provider, and prompt-handling improvements](YOUR_LITELLM_PR_LINK)
+- [**LiteLLM** — Streaming, provider, and prompt-handling improvements](https://github.com/BerriAI/litellm/pull/19265)
 - [**Haystack** — Async embedding retriever support](https://github.com/deepset-ai/haystack-core-integrations/pull/3016)
 - [**PostHog** — Group property filtering for survey responses](https://github.com/PostHog/posthog/pull/34946)
 - [**Cal.com** — Dynamic adapter import fix](https://github.com/calcom/cal.com/pull/23784)
