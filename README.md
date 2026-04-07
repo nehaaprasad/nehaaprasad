@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • Frontend Developer • Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://neha-portfolio-liart.vercel.app/">Live Portfolio</a> •
+  <a href="https://nehaprasad.vercel.app/">Live Portfolio</a> •
   <a href="https://www.linkedin.com/in/neha-prasad-92499821b/">LinkedIn</a> •
   <a href="https://x.com/nehaaaa_6">X</a> •
   <a href="mailto:nehaprasad27118@gmail.com">Email</a>
