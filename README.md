@@ -29,7 +29,7 @@ I’m Neha Prasad, a <i>Software Engineer</i> focused on <i>Frontend Development
 
 ## 🤔 What I have built
 
-[CodeTrust](https://codetrust-lilac.vercel.app/analyze) : CodeTrust is an AI-powered tool that analyzes code or pull requests and gives a clear verdict — **Safe, Risky, or Block** helping developers catch issues and ship with confidence.
+- ## [CodeTrust](https://codetrust-lilac.vercel.app/analyze) : CodeTrust is an AI-powered tool that analyzes code or pull requests and gives a clear verdict — **Safe, Risky, or Block** helping developers catch issues and ship with confidence.
 
 
 ## 🍀 Open Source Contributions
